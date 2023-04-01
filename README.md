@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phat Nguyen</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt="coding" width="400" src"https://preview.redd.it/z9jw41zhkcw61.gif?width=1920&auto=webp&s=4731b68924aa1dc232abed173d53efc18bd3f6c3">
+<img align="right" alt="coding" width="400" src="https://preview.redd.it/z9jw41zhkcw61.gif?width=1920&auto=webp&s=4731b68924aa1dc232abed173d53efc18bd3f6c3">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
