@@ -73,9 +73,9 @@
   <h3>✈️Analyzed Information:</h3>
   <p>-----------------------------------------------------------------------</p>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatnguyen9722&show_icons=true&locale=en&layout=compact" alt="phatnguyen9722" height="240px"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatnguyen9722&show_icons=true&locale=en&layout=compact" alt="phatnguyen9722" height="200px"/>
   </p>
 
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=phatnguyen9722&show_icons=true&locale=en" alt="phatnguyen9722" height="240px"/></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=phatnguyen9722&show_icons=true&locale=en" alt="phatnguyen9722" height="200px"/></p>
 </div>
 
