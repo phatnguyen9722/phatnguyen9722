@@ -39,6 +39,7 @@
         Resume 📖
       </h3>
     </summary>
+    <p>-----------------------------------------------------------------------</p>
     <details style="padding-left: 20px;">
       <summary>Academics</summary>
       <p>- Ton Duc Thang University</p>
