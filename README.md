@@ -72,10 +72,10 @@
 <div align="left" style="width: 100%">
   <h3>✈️Analyzed Information:</h3>
   <p>-----------------------------------------------------------------------</p>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatnguyen9722&show_icons=true&locale=en&layout=compact" alt="phatnguyen9722" height="200px"/>
-  </p>
+  <span>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatnguyen9722&show_icons=true&locale=en&layout=compact" alt="phatnguyen9722" height="180px"/>
+  </span>
 
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=phatnguyen9722&show_icons=true&locale=en" alt="phatnguyen9722" height="200px"/></p>
+  <span>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=phatnguyen9722&show_icons=true&locale=en" alt="phatnguyen9722" height="180px"/></span>
 </div>
 
