@@ -48,37 +48,34 @@
     <details style="padding-left: 20px;">
      <summary>Work Experience</summary>
      <p>- TMA Solutions since 2022</p>
-  </details>
+    </details>
+    <details style="padding-left: 20px;">
+     <summary>Tech Stack</summary>
+      <h4>Languages: </h4>
+      <p align="left">
+        <img src="./img/python-original.svg" alt="python" width="36"/>
+        <img src="./img/js.png" alt="javascript" width="36"/>
+        <img src="./img/html5.svg" alt="html" width="36"/>
+        <img src="./img/css3.svg" alt="css" width="36"/>
+      </p>
+      <h4>Libraries and Frameworks: </h4>
+      <p align="left">
+        <img src="./img/django.png" alt="django" width="36"/>
+      </p>
+      <h4>Tools: </h4>
+      <p align="left">
+        <img src="./img/postman.png" alt="postman" width="36"/>
+      </p>
   </details>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-</p>
+<div align="left" style="width: 100%">
+  <h3>✈️Analyzed Information:</h3>
+  <p>-----------------------------------------------------------------------</p>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatnguyen9722&show_icons=true&locale=en&layout=compact" alt="phatnguyen9722" height="240px"/>
+  </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatnguyen9722&show_icons=true&locale=en&layout=compact" alt="phatnguyen9722" />
-</p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=phatnguyen9722&show_icons=true&locale=en" alt="phatnguyen9722" height="240px"/></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phatnguyen9722&show_icons=true&locale=en" alt="phatnguyen9722" /></p>
