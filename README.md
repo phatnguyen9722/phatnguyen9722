@@ -17,19 +17,39 @@
 <img align="right" alt="coding" width="440" src="./img/right-banner.gif">
 
 <div align="left" style="width: 440px">
-  <h3>✈️ About me:</h3>
+  <h3>✈️About me:</h3>
   <p>-----------------------------------------------------------------------</p>
   <p class="about-content" align="left">
     - I'm a Python developer specializing in Django and Flask. </br>
     - I also have experience with front-end development using React and Next.js. 
   </p>
 
-  <h3 align="left">📱 Connect with me:</h3>
+  <h3 align="left">📱Connect with me:</h3>
   <p>-----------------------------------------------------------------------</p>
   <p align="left">👉 <b>Gmail</b>: <i>phatnguyen.9722@gmail.com</i></p>
-  <p align="left">👉 <b>Skype</b>: <i>Phat Nguyen</i></p>
+  <p style="text-align: left;">
+    👉 <b>Skype</b>: <i><a href="https://join.skype.com/invite/xfEiev0b96hb">Phat Nguyen</a></i>
+  </p>
 </div>
 
+<div align="left" style="width: 440px">
+  <details>
+    <summary>
+      <h3 style="display: inline;">
+        Resume 📖
+      </h3>
+    </summary>
+    <details style="padding-left: 20px;">
+      <summary>Academics</summary>
+      <p>- Ton Duc Thang University</p>
+      <p>- GPA: 7.12/10</p>
+    </details>
+    <details style="padding-left: 20px;">
+     <summary>Work Experience</summary>
+     <p>- TMA Solutions since 2022</p>
+  </details>
+  </details>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
