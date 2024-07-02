@@ -61,6 +61,7 @@
       <h4>Libraries and Frameworks: </h4>
       <p align="left">
         <img src="./img/django.png" alt="django" width="36"/>
+        <img src="./img/flask.png" alt="flask" width="36"/>
         <img src="./img/react.png" alt="react" width="36"/>
       </p>
       <h4>Tools: </h4>
