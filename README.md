@@ -14,9 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=phatnguyen9722&label=Profile%20views&color=0e75b6&style=flat" alt="phatnguyen9722" /> 
 </p>
 
-<img align="right" alt="coding" width="480" src="./img/right-banner.gif">
+<img align="right" alt="coding" width="440" src="./img/right-banner.gif">
 
-<div align="left" style="width: 50%">
+<div align="left" style="width: 440px">
   <h2>✈️ About me:</h2>
   <p class="about-content" align="left">
     - I'm a Python developer specializing in Django and Flask. </br>
