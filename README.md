@@ -66,6 +66,7 @@
       <h4>Tools: </h4>
       <p align="left">
         <img src="./img/postman.png" alt="postman" width="36"/>
+        <img src="./img/figma.png" alt="figma" width="38"/>
       </p>
   </details>
 </div>
