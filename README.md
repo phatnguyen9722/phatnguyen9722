@@ -18,14 +18,14 @@
 
 <div align="left" style="width: 440px">
   <h3>✈️About me:</h3>
-  <p>-----------------------------------------------------------------------</p>
+  <p>--------------------------------------------------------------</p>
   <p class="about-content" align="left">
     - I'm a Python developer specializing in Django and Flask. </br>
     - I also have experience with front-end development using React and Next.js. 
   </p>
 
   <h3 align="left">📱Connect with me:</h3>
-  <p>-----------------------------------------------------------------------</p>
+  <p>--------------------------------------------------------------</p>
   <p align="left">👉 <b>Gmail</b>: <i>phatnguyen.9722@gmail.com</i></p>
   <p style="text-align: left;">
     👉 <b>Skype</b>: <i><a href="https://join.skype.com/invite/xfEiev0b96hb">Phat Nguyen</a></i>
