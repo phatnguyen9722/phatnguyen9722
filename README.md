@@ -74,7 +74,7 @@
 
 <div align="left" style="width: 100%">
   <h3>✈️Analyzed Information:</h3>
-  <p>-----------------------------------------------------------------------</p>
+  <p>--------------------------------------------------------------</p>
   <span>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatnguyen9722&show_icons=true&locale=en&layout=compact" alt="phatnguyen9722" height="180px"/>
   </span>
