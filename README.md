@@ -28,7 +28,7 @@
   <p>--------------------------------------------------------------</p>
   <p align="left">👉 <b>Gmail</b>: <i>phatnguyen.9722@gmail.com</i></p>
   <p style="text-align: left;">
-    👉 <b>Skype</b>: <i><a href="https://join.skype.com/invite/xfEiev0b96hb">Phat Nguyen</a></i>
+    👉 <b>Teams</b>: <i>iamntp1997@gmail.com</i>
   </p>
 </div>
 
