@@ -1,11 +1,8 @@
 <!-- Banner  -->
-<div align="center">
-    <img src="./img/banner.jpg" alt="MasterHead" style="width:95%;">
-</div>
-
+<h1 align="center"><p>Hava a nice day 👋, I'm Phat Nguyen</p></h1>
 
 <!-- Content  -->
-<h1 align="center">Hava a nice day 👋, I'm Phat Nguyen </h1>
+
 <h3 align="center">A Python Developer from Ho Chi Minh City, VietNam</h3>
 
 
@@ -14,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=phatnguyen9722&label=Profile%20views&color=0e75b6&style=flat" alt="phatnguyen9722" /> 
 </p>
 
-<img align="right" alt="coding" width="440" src="./img/right-banner.gif">
+<img align="right" alt="coding" style="width: 25%; padding-right: 5%" src="./img/banner-2.jpg">
 
-<div align="left" style="width: 440px">
+<div align="left" style="width: 75%">
   <h3>✈️About me:</h3>
   <p>--------------------------------------------------------------</p>
   <p class="about-content" align="left">
